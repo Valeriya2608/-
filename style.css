@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color: brown;
+    box-shadow: 0 0 2px 2px black;
+
+}
+
+h3 {
+    color: brown;
+    box-shadow: 0 0 2px 2px rgb(0, 0, 0);
+    background-image: linear-gradient( to right, white,  gold);
+}
+h2{
+    box-shadow:0 0 2px 2px rgb(0, 0, 0);
+    color: brown;  
+}
+h3:hover{
+    color: rgb(76, 0, 255);
+    box-shadow: 0 0 2px 2px rgb(0, 0, 0)
+}
+h1:hover{
+   color: rgb(25, 0, 255);
+    box-shadow: 0 0 2px 2px black;  
+}
+h2:hover{
+     box-shadow:0 0 2px 2px rgb(0, 0, 0);
+    color: blue;  
+}
+h4 {
+    box-shadow: 0 0 2px 2px black;
+    color: blue;
+}
+h4:hover{
+ box-shadow: 0 0 2px 2px black;
+    color: red;   
+}
